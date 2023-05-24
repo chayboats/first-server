@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "calculator-3.0",
+  "version": "1.0.0",
+  "description": "Practing npm initialization",
+  "main": "server.js",
+  "author": "Chaley Boatmon",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }, 
+  "type": "module"
+}
